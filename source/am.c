@@ -16,12 +16,36 @@
 #define r(fmt, args ...)
 #endif
 
-static const u32 pokemonTitleCount = 4;
+static const u32 pokemonTitleCount = 28;
 static const u64 pokemonTitleIDs[] = {
+	0x0004000000171000, ///< Pokémon Red
+	0x5001000003852600, ///< Pokémon Blue
+	0x0004000000171200, ///< Pokémon Yellow
+	0x0004000000172600, ///< Pokémon Gold
+	0x0004000000172700, ///< Pokémon Silver
+	0x0004000000172800, ///< Pokémon Crystal
+	                    ///< Pokémon Ruby
+                            ///< Pokémon Sapphire 
+	                    ///< Pokémon Emerald
+                            ///< Pokémon Fire Red
+	                    ///< Pokémon Leaf Green
+	                    ///< Pokémon Diamond
+                            ///< Pokémon Pearl
+	                    ///< Pokémon Platinum
+                            ///< Pokémon Heart Gold
+                            ///< Pokémon Soul Silver
+	                    ///< Pokémon Black
+                            ///< Pokémon White
+                            ///< Pokémon Black 2
+                            ///< Pokémon White 2
 	0x0004000000055D00, ///< Pokémon X
 	0x0004000000055E00, ///< Pokémon Y
 	0x000400000011C400, ///< Pokémon Omega Ruby
 	0x000400000011C500, ///< Pokémon Alpha Sapphire
+	0x0004000000164800, ///< Pokémon Sun
+        0x0004000000175E00, ///< Pokémon Moon
+	0x00040000001B5000, ///< Pokémon Ultra Sun
+	0x00040000001B5100, ///< Pokémon Ultra Moon
 	0x0000000000000000,	///< Not Pokémon
 };
 
