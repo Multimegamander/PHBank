@@ -37,10 +37,10 @@ const char* DataManager::lang(void)
 	switch (userlang)
 	{
 		// case LANGUAGE_JP: return "jp";	///< Japan
-		case LANGUAGE_FR: return "fr";	///< French
-		case LANGUAGE_IT: return "it";	///< Italian
-		case LANGUAGE_DE: return "de";	///< German
-		case LANGUAGE_ES: return "es";	///< Spanish
+		// case LANGUAGE_FR: return "fr";	///< French
+		// case LANGUAGE_IT: return "it";	///< Italian
+		// case LANGUAGE_DE: return "de";	///< German
+		// case LANGUAGE_ES: return "es";	///< Spanish
 		// case LANGUAGE_KR: return "kr";	///< Korean
 		default:      return "en";	///< English
 	}
