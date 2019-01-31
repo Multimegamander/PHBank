@@ -35,7 +35,7 @@ INCLUDES	:=	include include/viewer
 
 APP_TITLE		:=	PHBank
 APP_DESCRIPTION	:=	Pokémon Homebrew Bank
-APP_AUTHOR		:=	Gocario
+APP_AUTHOR		:=	Multimegamander
 
 # NO_SMDH			:=	NO_SMDH
 ROMFS			:=	romfs
