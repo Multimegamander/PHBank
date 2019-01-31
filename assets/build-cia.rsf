@@ -19,14 +19,14 @@ Option:
   EnableCompress          : true # Compresses where applicable (currently only exefs:/.code)
   
 AccessControlInfo:
-  CoreVersion                   : 2
+  CoreVersion                   : 3
 
   # Exheader Format Version
-  DescVersion                   : 2
+  DescVersion                   : 0
   
   # Minimum Required Kernel Version (below is for 4.5.0)
-  ReleaseKernelMajor            : "02"
-  ReleaseKernelMinor            : "33" 
+  ReleaseKernelMajor            : "03"
+  ReleaseKernelMinor            : "00" 
 
   # ExtData
   UseExtSaveData                : false # enables ExtData       
